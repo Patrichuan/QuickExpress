@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@color/MaterialRed"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1.0"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.5">
+
+        <TextView
+            android:textSize="50.0sp"
+            android:textColor="@color/MaterialWhite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/haexplotado"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/textView2" />
+
+        <TextView
+            android:textSize="20.0sp"
+            android:textColor="@color/MaterialWhite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/otrogana1punto"
+            android:layout_above="@+id/textView2"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/jugardenuevo"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:id="@+id/ImagenReintentar"
+            android:layout_alignParentBottom="true"
+            android:layout_toStartOf="@+id/textView"
+            android:contentDescription="@string/Volver" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/menuprincipal"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:id="@+id/ImagenMenuPrincipal"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/textView"
+            android:contentDescription="@string/MenuPrincipal" />
+
+    </RelativeLayout>
+
+</LinearLayout>

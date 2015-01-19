@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Quick Express</string>
+    <string name="back">Volver</string>
+    <string name="haexplotado">TE HA EXPLOTADO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instrucciones">"¡Quick Expression es rápido y divertido!
+
+Un juego de palabras rápido para dos equipos.
+
+Di tantas pistas como puedas para describir la palabra que aparece en el móvil. Cuando alguien de tu equipo adivine la palabra antes de que haya finalizado el tiempo, pulsa al botón "siguiente" y pasa el móvil al equipo contrario...
+
+Pero, ojo!!!! si el tiempo finaliza mientras tienes en tus manos el móvil, el equipo contrario gana el punto.
+
+El equipo que llegue a la casilla "llegada", gana la partida.
+
+Reglas:
+ - No se puede decir una palabra que rime con la palabra que hay que adivinar.
+ - No se puede decir cualquier parte de la palabra en las pistas explicativas : (Vajilla, lavavajillas)."
+
+¡Prepárate...para empezar a hablar!</string>
+    <string name="otrogana1punto">ANOTA 1 PUNTO AL OTRO EQUIPO</string>
+    <string name="palabra">Siguiente</string>
+    <string name="title_activity_fin_de_juego">FinDeJuego</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_instrucciones">Instrucciones</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Instrucciones">Instrucciones</string>
+    <string name="Logo">Logo</string>
+    <string name="Volver">Volver</string>
+    <string name="MenuPrincipal">MenuPrincipal</string>
+
+    <string-array name="Respuestas">
+        <item>Clase de ingles</item>
+        <item>Hazmerreir</item>
+        <item>Pizarra</item>
+        <item>Proyector</item>
+        <item>Telefono movil</item>
+        <item>Camiseta</item>
+        <item>Chandal</item>
+        <item>Mano dura</item>
+        <item>Llover a cantaros</item>
+        <item>Dia de perros</item>
+        <item>Batman</item>
+        <item>Frank de la jungla</item>
+        <item>Belen Esteban</item>
+        <item>Morir en vano</item>
+        <item>Cocacola light</item>
+        <item>Asesinato</item>
+        <item>Peluca</item>
+        <item>Ordenador portatil</item>
+        <item>Raton óptico</item>
+        <item>Luz de neon</item>
+        <item>Las Vegas</item>
+        <item>Abrigo</item>
+        <item>Freno de mano</item>
+        <item>Zanja</item>
+        <item>Barricada</item>
+        <item>Explosivo</item>
+        <item>Patito de goma</item>
+        <item>Teletubbie</item>
+        <item>Hacer el tonto</item>
+        <item>Gritar</item>
+        <item>Expulsado</item>
+        <item>Castigar</item>
+        <item>Abeto</item>
+        <item>Esquimal</item>
+        <item>India</item>
+        <item>Laponia</item>
+        <item>Francia</item>
+        <item>Cuba</item>
+        <item>Amamantar</item>
+        <item>Cumpleaños feliz</item>
+        <item>Irse de rositas</item>
+        <item>Estamparse</item>
+        <item>Atasco</item>
+        <item>Carrera de galgos</item>
+        <item>Coche deportivo</item>
+        <item>Estrambotico</item>
+        <item>Estudiar duro</item>
+        <item>Hincar los codos</item>
+        <item>Partir dientes</item>
+        <item>Tirarse de cabeza</item>
+        <item>Diablo</item>
+        <item>Hombre de paz</item>
+        <item>Habitacion pequeña</item>
+        <item>Deshinhibirse</item>
+        <item>Destruir</item>
+        <item>Exterminar</item>
+        <item>Pelusa</item>
+        <item>Mota de polvo</item>
+        <item>Pisar los talones</item>
+        <item>Fusil</item>
+        <item>Resolver crucigramas</item>
+        <item>Sopa de letras</item>
+        <item>Dispositivo movil</item>
+        <item>Tablet</item>
+        <item>Comerse los mocos</item>
+        <item>Estar pedo</item>
+        <item>Reir a carcajadas</item>
+        <item>Que me dices</item>
+        <item>Salvame Deluxe</item>
+        <item>Ampararse</item>
+        <item>Comer como una cerda</item>
+        <item>Pictionary</item>
+        <item>Ilustración</item>
+        <item>Regocijarse</item>
+        <item>Satelite</item>
+        <item>Sistema planetario</item>
+        <item>ONG</item>
+        <item>Partido democratico</item>
+        <item>Dictadura</item>
+        <item>Estar en cautividad</item>
+        <item>Espartano</item>
+        <item>Robin Hood</item>
+        <item>Loco de atar</item>
+        <item>Maletin</item>
+        <item>Calcetines</item>
+        <item>Via lactea</item>
+        <item>Sagitario</item>
+        <item>Horoscopo</item>
+        <item>Sentirse ligero</item>
+        <item>Peso pesado</item>
+        <item>Moverse rapido</item>
+        <item>Gato persa</item>
+        <item>Extraterrestre</item>
+        <item>Voy a perder</item>
+        <item>Cuenta atras</item>
+        <item>Escondite ingles</item>
+        <item>Cojer desprevenido</item>
+        <item>Deshilachar</item>
+        <item>Ovillo de lana</item>
+        <item>Espiritu deportivo</item>
+        <item>Competitividad</item>
+        <item>Aperitivo</item>
+        <item>Silla de madera</item>
+        <item>Escupir</item>
+        <item>Masculinidad</item>
+        <item>Feminidad</item>
+        <item>Aventura</item>
+        <item>Cargador de movil</item>
+        <item>Bocadillo de calamares</item>
+        <item>Bolso de mano</item>
+        <item>Camiseta ajustada</item>
+        <item>Salvapantallas</item>
+        <item>Flotador</item>
+        <item>Cuesta de enero</item>
+        <item>Embarcación</item>
+        <item>Canoa</item>
+        <item>Monitorizar</item>
+        <item>Montura de gafas</item>
+        <item>Pelicula de miedo</item>
+        <item>Cabezón</item>
+        <item>Cobrador del frac</item>
+        <item>Pinguino</item>
+        <item>Serpiente albina</item>
+        <item>Cinturón</item>
+        <item>Ben-Hur</item>
+        <item>Hulk</item>
+        <item>Thor</item>
+        <item>8 apellios vascos</item>
+        <item>Jesucristo Superstar</item>
+        <item>Travesti</item>
+        <item>Comida rapida</item>
+        <item>Fideos chinos</item>
+        <item>Sushi</item>
+        <item>Arroz a la cubana</item>
+        <item>Fascismo</item>
+        <item>Nazi</item>
+        <item>Atropellado</item>
+        <item>Kit</item>
+        <item>Halcón</item>
+        <item>Puticlub</item>
+        <item>Desgarro</item>
+        <item>Talon de Aquiles</item>
+        <item>Posesión</item>
+        <item>Estar como una cabra</item>
+        <item>Samurai</item>
+        <item>Whisky</item>
+        <item>Montadito</item>
+        <item>Bocadillo de jamón</item>
+        <item>Enrojecerse</item>
+        <item>Zombie</item>
+        <item>Comerse la cabeza</item>
+        <item>Abalanzarse</item>
+        <item>Abanderado</item>
+        <item>Apodo</item>
+        <item>Torero</item>
+        <item>Policia nacional</item>
+        <item>Guardia civil</item>
+        <item>Muerte subita</item>
+        <item>Abanicarse</item>
+        <item>Caer rendido</item>
+        <item>Morir de gusto</item>
+        <item>Orgasmo</item>
+        <item>Abarcar</item>
+        <item>Espolon</item>
+        <item>Mosquitera</item>
+        <item>Espolvorear</item>
+        <item>Pavo relleno</item>
+        <item>Estar mosqueado</item>
+        <item>Esponjoso</item>
+        <item>Pastel de crema</item>
+        <item>Tarta de chocolate</item>
+        <item>Canoso</item>
+        <item>Gominola</item>
+        <item>Estar despechado</item>
+        <item>Viajar en tren</item>
+        <item>Carbon vegetal</item>
+        <item>Granada de mano</item>
+        <item>Ir haciendo eses</item>
+        <item>Parecer imbecil</item>
+        <item>Mentir compulsivamente</item>
+        <item>Pechugona</item>
+        <item>Pedicura</item>
+        <item>Tirarse un pedo</item>
+        <item>Pedorro</item>
+        <item>Rajarse</item>
+        <item>Eructar</item>
+        <item>Rascarse un huevo</item>
+        <item>Dar asco</item>
+        <item>Gafas de sol</item>
+        <item>Peineta</item>
+        <item>Monstruoso</item>
+        <item>Oceano</item>
+        <item>Perezoso</item>
+        <item>Amar</item>
+        <item>Hamburguesa</item>
+        <item>Correr</item>
+        <item>Despechado</item>
+        <item>Ansioso</item>
+        <item>El Señor de los Anillos</item>
+        <item>BraveHeart</item>
+        <item>Arma Letal</item>
+        <item>Sauron</item>
+        <item>Gran Hermano</item>
+        <item>Torero</item>
+        <item>Anzuelo</item>
+        <item>Lagrimas de cocodrilo</item>
+        <item>Pico</item>
+        <item>Chaqueta</item>
+        <item>Etiqueta</item>
+        <item>Transformer</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Sheriff</item>
+        <item>Melocoton</item>
+        <item>Caballo</item>
+        <item>Vagón</item>
+        <item>Ogro</item>
+        <item>Noticia</item>
+        <item>Aire fresco</item>
+        <item>Fiel</item>
+        <item>Informativo</item>
+        <item>Propaganda</item>
+        <item>Rey</item>
+        <item>Entrevista</item>
+        <item>Imagen</item>
+        <item>Compromiso</item>
+        <item>Trabajar</item>
+        <item>Año</item>
+        <item>Edición</item>
+        <item>Documental</item>
+        <item>Altavoz</item>
+        <item>Pan de molde</item>
+        <item>Botella</item>
+        <item>Partido</item>
+        <item>Servilleta</item>
+        <item>Continente</item>
+        <item>Sombrero</item>
+        <item>Boina</item>
+        <item>Meteorologia</item>
+        <item>Balón</item>
+        <item>Hijo</item>
+        <item>Rizos</item>
+        <item>Villano</item>
+        <item>Maligno</item>
+        <item>Superheroe</item>
+        <item>Calamares</item>
+        <item>Comunismo</item>
+        <item>Calva</item>
+        <item>Muñeca</item>
+        <item>Cinta de pelo</item>
+        <item>Cuervo</item>
+        <item>Copa de vino</item>
+        <item>Medicamento</item>
+        <item>Manta electrica</item>
+        <item>Programador</item>
+        <item>Flequillo</item>
+        <item>Pestaña</item>
+        <item>Florero</item>
+        <item>Fotografia</item>
+        <item>Molde</item>
+        <item>Horno</item>
+        <item>Vitroceramic</item>
+        <item>Cocido madrileño</item>
+        <item>Perdiz</item>
+        <item>Cuadro</item>
+        <item>Bambu</item>
+        <item>Koala</item>
+        <item>Caricatura</item>
+        <item>Politica</item>
+        <item>Relampago</item>
+        <item>Interruptor</item>
+        <item>Perfume</item>
+        <item>Tulipan</item>
+        <item>Retrete</item>
+        <item>Futuro</item>
+        <item>Estampita</item>
+        <item>Retortijón</item>
+        <item>Saxofón</item>
+        <item>Busqueda</item>
+        <item>Comparar</item>
+        <item>Mona Lissa</item>
+        <item>Mozart</item>
+        <item>Rocky</item>
+        <item>Rambo</item>
+        <item>Disney</item>
+        <item>Goofy</item>
+        <item>Beca</item>
+        <item>Practica</item>
+        <item>Banco</item>
+        <item>Dar calabaza</item>
+        <item>Seguro de coche</item>
+        <item>Prestamo</item>
+        <item>Funcionar</item>
+        <item>Ejercito</item>
+        <item>Torre</item>
+        <item>Campana</item>
+        <item>Compartir</item>
+        <item>Pastilla</item>
+        <item>Generación</item>
+        <item>Dolor</item>
+        <item>Eliminar</item>
+        <item>Garganta</item>
+        <item>Experto</item>
+        <item>Sabio</item>
+        <item>Altura</item>
+        <item>Vida</item>
+        <item>Alegria</item>
+        <item>Disfrutar</item>
+        <item>Ir tirando</item>
+        <item>Cantidad</item>
+        <item>Plazo</item>
+        <item>Transferir dinero</item>
+        <item>Cuenta bancaria</item>
+        <item>Tarjeta de credito</item>
+        <item>Desayunar</item>
+        <item>Magdalena</item>
+        <item>Bizcocho</item>
+        <item>Vitamina</item>
+        <item>Invierno</item>
+        <item>Consolador</item>
+        <item>Lubricante</item>
+        <item>Preservativo</item>
+        <item>Cita</item>
+        <item>Bolas chinas</item>
+        <item>Secador</item>
+        <item>Plancha de pelo</item>
+        <item>Patatas bravas</item>
+        <item>Encontrar</item>
+        <item>Nombre</item>
+        <item>Cosa</item>
+        <item>Presentador</item>
+        <item>Lentillas</item>
+        <item>Corbata</item>
+        <item>Lenceria</item>
+        <item>Sujetador</item>
+        <item>Tanga</item>
+        <item>Calzoncillo</item>
+        <item>Celo</item>
+        <item>Vengarse</item>
+        <item>Calefacción</item>
+        <item>Dar a luz</item>
+        <item>Identificación</item>
+        <item>Caracol</item>
+        <item>Plantilla</item>
+        <item>Avenida</item>
+        <item>Repartidor</item>
+        <item>Chupito</item>
+        <item>Cara de poker</item>
+        <item>Piojo</item>
+        <item>Garrapata</item>
+        <item>Embotellar</item>
+        <item>Ensalada</item>
+        <item>Cepillo de dientes</item>
+        <item>Secadora</item>
+        <item>Consumidor</item>
+        <item>Estropear</item>
+        <item>Gratis</item>
+        <item>Cartilla</item>
+        <item>Rinoceronte</item>
+        <item>Modista</item>
+        <item>Crujiente</item>
+        <item>Fino</item>
+        <item>Pizza</item>
+        <item>Concierto</item>
+        <item>Portero</item>
+        <item>Lucha</item>
+        <item>Enfermedad</item>
+        <item>Malestar</item>
+        <item>Mojarse</item>
+        <item>Panaderia</item>
+        <item>Serie</item>
+        <item>Estreno</item>
+        <item>Juego de tronos</item>
+        <item>Plantar un pino</item>
+        <item>Boca</item>
+        <item>Dentifrico</item>
+        <item>Soja</item>
+        <item>Guisante</item>
+        <item>Bajera</item>
+        <item>Colegio</item>
+        <item>Reto</item>
+        <item>Instituto</item>
+        <item>Desarrollarse</item>
+        <item>Reyes Magos</item>
+        <item>Chihuahua</item>
+        <item>Husky</item>
+        <item>Contratar</item>
+        <item>Permanencia</item>
+        <item>Vehiculo</item>
+        <item>Estar preparado</item>
+        <item>Ideales</item>
+        <item>Apuesta</item>
+        <item>Resultado</item>
+        <item>Impulsivo</item>
+        <item>Bipolar</item>
+        <item>Bucear</item>
+        <item>Asfixiarse</item>
+        <item>Linea</item>
+        <item>Punto</item>
+        <item>Poligono</item>
+        <item>Trigonometria</item>
+        <item>Matematicas</item>
+        <item>Exito</item>
+        <item>Fracaso</item>
+        <item>Bombilla</item>
+        <item>Reproductor de música</item>
+        <item>Voluntariado</item>
+        <item>Integración</item>
+        <item>Dedicar</item>
+        <item>Accionista</item>
+        <item>Libro</item>
+        <item>Apuntes</item>
+        <item>Examen</item>
+        <item>Puente</item>
+        <item>Doblar</item>
+        <item>Hacer horas extras</item>
+        <item>Periodico</item>
+        <item>Teléfono</item>
+        <item>Espejo</item>
+        <item>Agua</item>
+        <item>Botella</item>
+        <item>Lapiz</item>
+        <item>Boligrafo</item>
+        <item>Casco</item>
+        <item>Auriculares</item>
+        <item>Monedero</item>
+        <item>Dinero</item>
+        <item>Billete</item>
+        <item>Teclado</item>
+        <item>Monitor</item>
+        <item>Sonido</item>
+        <item>Melodia</item>
+        <item>Canción</item>
+        <item>Servilleta</item>
+        <item>Tenedor</item>
+        <item>Cuchara</item>
+        <item>Cuchillo</item>
+        <item>Eres mas cacique que el ron</item>
+        <item>Eres mas tonto que Pepe Leches</item>
+        <item>Pasarse de parada</item>
+        <item>Aburrirse como una ostra</item>
+        <item>Condón</item>
+        <item>Sexo</item>
+        <item>Fetiche</item>
+        <item>Sado</item>
+        <item>50 Sombras de Grey</item>
+        <item>Papeleo</item>
+        <item>Cable</item>
+        <item>Usb</item>
+        <item>Usuario</item>
+        <item>Contraseña</item>
+        <item>Justicia</item>
+        <item>Juzgado</item>
+        <item>Funcionario</item>
+        <item>Juez</item>
+        <item>Procedimiento</item>
+        <item>Letrado</item>
+        <item>Abogado</item>
+        <item>Fiscal</item>
+        <item>Dia</item>
+        <item>Noche</item>
+        <item>Crecer</item>
+        <item>Extraordinario</item>
+        <item>Cambiar</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Plutón</item>
+        <item>Marte</item>
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Neptuno</item>
+        <item>Cibeles</item>
+        <item>Viento</item>
+        <item>Huracan</item>
+        <item>Pasión</item>
+        <item>Desierto</item>
+        <item>Arena</item>
+        <item>Enseñar</item>
+        <item>Alumno</item>
+        <item>Discípulo</item>
+        <item>Profesor</item>
+        <item>Maestro</item>
+        <item>Doctor</item>
+        <item>Sensei</item>
+        <item>Estrofa</item>
+        <item>Verso</item>
+        <item>Dejar</item>
+        <item>Soñar</item>
+        <item>Comer</item>
+        <item>Bailar</item>
+        <item>Saltar</item>
+        <item>Cantar</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+        <item>Niño</item>
+        <item>Bebe</item>
+        <item>Infante</item>
+        <item>Tropa</item>
+        <item>Batallon</item>
+        <item>Ejército</item>
+        <item>Jugar</item>
+        <item>Muerte</item>
+        <item>La ocasión la pintan calva</item>
+        <item>Hombre de buena pasta</item>
+        <item>Perder los estribos</item>
+        <item>Entrar por el ojo derecho</item>
+        <item>Con su pan se lo coma</item>
+        <item>Hacer la peseta</item>
+        <item>De cajón</item>
+        <item>Ver los cielos abiertos</item>
+        <item>Apaga y vamonos</item>
+        <item>Ya vendra Paco con las rebajas</item>
+        <item>Tener padrinos</item>
+        <item>De tiros largos</item>
+        <item>Ni cenamos ni se muere padre</item>
+        <item>Pantalon de campana</item>
+        <item>Me lo ha contado un pajarito</item>
+        <item>Ponerse las botas</item>
+        <item>Costar un triunfo</item>
+        <item>Faltar un herbor</item>
+        <item>Dar pie</item>
+        <item>No saber ni torta</item>
+        <item>Ser mas malo que el vinagre</item>
+        <item>Estar a dos velas</item>
+        <item>A buenas horas</item>
+        <item>Irse a la porra</item>
+        <item>A huevo</item>
+        <item>A la chita callando</item>
+        <item>A palo seco</item>
+        <item>Armarse la de dios</item>
+        <item>Armar la marimorena</item>
+        <item>Buscar 3 pies al gato</item>
+        <item>Cada palo aguante su vela</item>
+        <item>Comer de gorra</item>
+        <item>Chorizo</item>
+        <item>Chistorra</item>
+        <item>Pagafantas</item>
+        <item>Dorar la pildora</item>
+        <item>Entre Pinto y Valdemoro</item>
+        <item>Son Palabras mayores</item>
+        <item>Quehaceres</item>
+        <item>Pensar en las musarañas</item>
+        <item>Estar vendido</item>
+        <item>Hacer el Agosto</item>
+        <item>Hacerse el sueco</item>
+        <item>Hacerse la boca agua</item>
+        <item>Ir de picos pardos</item>
+        <item>Ir por los cerros de Ubeda</item>
+        <item>Salir rana</item>
+        <item>Llevar el gato al agua</item>
+        <item>Me importa un bledo</item>
+        <item>Morder el polvo</item>
+        <item>Echar un polvo</item>
+        <item>Hacer un sin pa</item>
+        <item>Fanfarron</item>
+        <item>Tirarse el moco</item>
+        <item>Por amor al arte</item>
+        <item>Hacer de Rodriguez</item>
+        <item>Todo el monte es oregano</item>
+        <item>Ver el plumero</item>
+        <item>A la vuelta de la esquina</item>
+        <item>A ojo de buen cubero</item>
+        <item>A otra cosa mariposa</item>
+        <item>Al tun tun</item>
+        <item>Ahuecar el ala</item>
+        <item>Borracho</item>
+        <item>Resaca</item>
+        <item>Bon Apetit</item>
+        <item>Cojonudo</item>
+        <item>Como un libro abierto</item>
+        <item>Con la iglesia hemos topado</item>
+        <item>Cruzar los dedos</item>
+        <item>Dar en el clavo</item>
+        <item>Besugo</item>
+        <item>Descojonarse</item>
+        <item>Coño</item>
+        <item>Pene</item>
+        <item>Ostias</item>
+        <item>Futbol</item>
+        <item>Monje</item>
+        <item>Habito</item>
+        <item>El quinto pino</item>
+        <item>Mosca</item>
+        <item>Sapo</item>
+        <item>Acojonarse</item>
+        <item>Partir la pana</item>
+        <item>Estar piripi</item>
+        <item>Rollo</item>
+        <item>Trapo</item>
+        <item>Flan</item>
+        <item>Con 2 cojones</item>
+        <item>Tornillo</item>
+        <item>Angel</item>
+        <item>Silencio</item>
+        <item>Alas</item>
+        <item>Cabra</item>
+        <item>Unicornio</item>
+        <item>Pegaso</item>
+        <item>Pelota</item>
+        <item>Mono</item>
+        <item>Tener el mono</item>
+        <item>Hacer buenas migas</item>
+        <item>Ligar</item>
+        <item>Tirar los tejos</item>
+        <item>Media naranja</item>
+        <item>Luna de miel</item>
+        <item>Bautizo</item>
+        <item>Casamiento</item>
+        <item>Comunión</item>
+        <item>Alianza</item>
+        <item>Despedida de soltero</item>
+        <item>Velo</item>
+        <item>Burka</item>
+        <item>Hacer el lio</item>
+        <item>Hacerle la cama</item>
+        <item>Cogorza</item>
+        <item>Besar el santo</item>
+        <item>Magro</item>
+        <item>Cizaña</item>
+        <item>Milhojas</item>
+        <item>Mojarse</item>
+        <item>Paraguas</item>
+        <item>Pinguino</item>
+        <item>Guitarra</item>
+        <item>Nueces</item>
+        <item>Ni Fu ni Fa</item>
+        <item>Obeso</item>
+        <item>Desear</item>
+        <item>Efectivo</item>
+        <item>Pagar</item>
+        <item>Piropo</item>
+        <item>Insulto</item>
+        <item>Poner los cuernos</item>
+        <item>Infidelidad</item>
+        <item>Trio</item>
+        <item>Orgia</item>
+        <item>Torear</item>
+        <item>Timar</item>
+        <item>Sol</item>
+        <item>Estrellas</item>
+        <item>Luna</item>
+        <item>Hierba</item>
+        <item>Piedra</item>
+        <item>Marihuana</item>
+        <item>Hachis</item>
+        <item>Setas</item>
+        <item>Drogas</item>
+        <item>Rezar</item>
+        <item>Dios</item>
+        <item>Mahoma</item>
+        <item>Hielo</item>
+        <item>Romper</item>
+        <item>Salud</item>
+        <item>Saludar</item>
+        <item>Seco</item>
+        <item>Borde</item>
+        <item>Asqueroso</item>
+        <item>Oveja negra</item>
+        <item>La hostia</item>
+        <item>Hostiarse</item>
+        <item>Pegar</item>
+        <item>Cocaina</item>
+        <item>Ser de piedra</item>
+        <item>Ser despedido</item>
+        <item>Tener huevos</item>
+        <item>Aguafiestas</item>
+        <item>Salir de fiesta</item>
+        <item>Chorrada</item>
+        <item>Vale</item>
+        <item>Rayarse</item>
+        <item>Ser la caña</item>
+        <item>Fliparse</item>
+        <item>Gorra</item>
+        <item>Tirar la caña</item>
+        <item>Pescar</item>
+        <item>Estar empanado</item>
+        <item>Ir maqueada</item>
+        <item>Vomitar</item>
+        <item>Me la pela</item>
+        <item>Vacilar</item>
+        <item>Por la patilla</item>
+        <item>Pagar a pachas</item>
+        <item>Estar al loro</item>
+        <item>Ir de sobrado</item>
+        <item>Ser un pringado</item>
+        <item>Ir puesto</item>
+        <item>Cantearse</item>
+        <item>Ser un rata</item>
+        <item>Ser un bocas</item>
+        <item>Ser una maquina</item>
+        <item>En pelotas</item>
+        <item>Desnudarse</item>
+        <item>Gamba</item>
+        <item>Mazo</item>
+        <item>Pifiarla</item>
+        <item>Mogollon</item>
+        <item>Friki</item>
+        <item>Pavo</item>
+        <item>Porro</item>
+        <item>Punky</item>
+        <item>Colega</item>
+        <item>Alpiste</item>
+        <item>Tunear</item>
+        <item>Levantar</item>
+        <item>Ir de culo</item>
+        <item>Boca chancla</item>
+        <item>Masturbarse</item>
+        <item>Hacerse un dedo</item>
+        <item>Religión</item>
+    </string-array>
+
+</resources>
